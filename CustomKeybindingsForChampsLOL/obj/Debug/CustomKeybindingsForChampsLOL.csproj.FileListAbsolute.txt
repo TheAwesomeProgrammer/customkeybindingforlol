@@ -1,0 +1,11 @@
+c:\users\philip\documents\visual studio 2015\Projects\CustomKeybindingsForChampsLOL\CustomKeybindingsForChampsLOL\bin\Debug\CustomKeybindingsForChampsLOL.exe.config
+c:\users\philip\documents\visual studio 2015\Projects\CustomKeybindingsForChampsLOL\CustomKeybindingsForChampsLOL\bin\Debug\CustomKeybindingsForChampsLOL.exe
+c:\users\philip\documents\visual studio 2015\Projects\CustomKeybindingsForChampsLOL\CustomKeybindingsForChampsLOL\bin\Debug\CustomKeybindingsForChampsLOL.pdb
+c:\users\philip\documents\visual studio 2015\Projects\CustomKeybindingsForChampsLOL\CustomKeybindingsForChampsLOL\obj\Debug\CustomKeybindingsForChampsLOL.csprojResolveAssemblyReference.cache
+c:\users\philip\documents\visual studio 2015\Projects\CustomKeybindingsForChampsLOL\CustomKeybindingsForChampsLOL\obj\Debug\CustomKeybindingsForChampsLOL.Properties.Resources.resources
+c:\users\philip\documents\visual studio 2015\Projects\CustomKeybindingsForChampsLOL\CustomKeybindingsForChampsLOL\obj\Debug\CustomKeybindingsForChampsLOL.csproj.GenerateResource.Cache
+c:\users\philip\documents\visual studio 2015\Projects\CustomKeybindingsForChampsLOL\CustomKeybindingsForChampsLOL\obj\Debug\CustomKeybindingsForChampsLOL.exe
+c:\users\philip\documents\visual studio 2015\Projects\CustomKeybindingsForChampsLOL\CustomKeybindingsForChampsLOL\obj\Debug\CustomKeybindingsForChampsLOL.pdb
+c:\users\philip\documents\visual studio 2015\Projects\CustomKeybindingsForChampsLOL\CustomKeybindingsForChampsLOL\obj\Debug\CustomKeybindingsForChampsLOL.Form1.resources
+C:\Users\philip\documents\visual studio 2015\Projects\CustomKeybindingsForChampsLOL\CustomKeybindingsForChampsLOL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\philip\documents\visual studio 2015\Projects\CustomKeybindingsForChampsLOL\CustomKeybindingsForChampsLOL\bin\Debug\Newtonsoft.Json.xml
